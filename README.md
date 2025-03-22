@@ -1,3 +1,5 @@
+MUST INSTALL - https://github.com/JaKooLit/Arch-Hyprland
+
 @-https://github.com/JaKooLit 's hyrpland-dotfiles [ https://github.com/JaKooLit/Arch-Hyprland ]
 
 with my custom changes and tweaks 
